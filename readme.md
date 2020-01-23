@@ -27,6 +27,7 @@ Behavior | Input | Output
 --- | --- | ---
 takes in non-alphabetic character | 3 | 3
 takes in single letter words beginning with vowel | i | iay
+takes word beginning with a vowel | apple | appleway
 takes in word beginning with constanant | mote | otemay
 takes in word beginning with multiple constants | wrote | otewray
 take in vowel after consonant | squeal | ealsquay
